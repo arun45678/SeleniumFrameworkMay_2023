@@ -1,5 +1,7 @@
+com\learnautomation\testcases\Printprogram.class
 com\learnautomation\testcases\SignUpTest.class
 com\learnautomation\testcases\LoginTest.class
+com\learnautomation\testcases\Printprogram2.class
 com\learnautomation\testcases\ReportGenerate.class
 com\learnautomation\testcases\SampleThreadLocal3.class
 com\learnautomation\testcases\SampleTest.class
